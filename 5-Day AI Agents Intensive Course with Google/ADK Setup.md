@@ -9,7 +9,7 @@ By the end, you’ll have your own agent running both in the **terminal** and vi
 
 Before starting, make sure you have:
 
-* 🐍 **Python 3.10 or later**[[Python Installation and Update]]
+* 🐍 **Python 3.10 or later**    [[Python Installation and Update]]
 * 💾 **pip** (Python package manager)
 * 🌐 Internet access
 * 🧰 A **Google API key** (get it from [Google AI Studio → API Keys](https://aistudio.google.com/apikey))

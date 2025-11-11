@@ -5,7 +5,7 @@
 
 ## 🔍 1️⃣ Check your current Python version
 
-### 💻 Command (same for both systems)
+### 💻 Command win
 
 ```bash
 python --version

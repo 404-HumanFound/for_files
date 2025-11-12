@@ -99,7 +99,7 @@ cd my_agent
 Then run the agent:
 
 ```bash
-adk run
+adk run .
 ```
 
 You’ll now enter an interactive session:
